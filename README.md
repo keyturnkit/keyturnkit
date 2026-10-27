@@ -6,6 +6,8 @@ We make two small developer tools.
 - [ExtensionPay or license keys](https://keyturnkit.github.io/guides/extensionpay-alternative/)
 - [Polar license keys in a Chrome extension](https://keyturnkit.github.io/guides/polar-license-keys-chrome-extension/)
 - [Dodo Payments license keys in a Chrome extension](https://keyturnkit.github.io/guides/dodo-license-keys-chrome-extension/)
+- [Gumroad license keys in a Chrome extension](https://keyturnkit.github.io/guides/gumroad-license-keys-chrome-extension/)
+- [Payhip license keys in a Chrome extension](https://keyturnkit.github.io/guides/payhip-license-keys-chrome-extension/)
 - [Adding a free trial to a paid Chrome extension](https://keyturnkit.github.io/guides/chrome-extension-free-trial/)
 
 **[Blog Import](https://keyturnkit.github.io/blog-import/)** is a Framer plugin that moves a Squarespace, WordPress, Blogger, Medium or Ghost blog into Framer CMS, with its images and old links.
@@ -15,3 +17,5 @@ We make two small developer tools.
 - [What's inside a Squarespace blog export](https://keyturnkit.github.io/guides/squarespace-export-xml/)
 - [Exporting your Medium posts](https://keyturnkit.github.io/guides/medium-export/)
 - [Moving a Ghost blog to Framer](https://keyturnkit.github.io/guides/ghost-blog-to-framer/)
+- [Moving a Wix blog to Framer](https://keyturnkit.github.io/guides/wix-blog-to-framer/)
+- [Blog export inspector](https://keyturnkit.github.io/tools/blog-export-inspector/), see what's in an export file before you move
